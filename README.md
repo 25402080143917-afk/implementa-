@@ -1,7 +1,7 @@
 # implementa-
 programa que calculen el volumen de figuras geometricas 
 #include <iostream>
-  using namespace  std; 
+  using namespace  std;
 int main()
 {
    int   Abase , alt; 
